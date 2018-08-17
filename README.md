@@ -18,7 +18,7 @@ This project is for introduction for the network flow using and model constructi
 
 1. Building a random networks with E-R model and preferential attachment model.
 2. Random walk on random networks.
-
+Instruction of each problem are in main.pdf.
 
 Set Up
 ---
