@@ -11,6 +11,9 @@ Project 1
 ├── problem2_2.ipynb
 └── problem2_34.ipynb
 ```
+Problem Statement:
+---
+main.pdf
 
 Introduction
 ---
