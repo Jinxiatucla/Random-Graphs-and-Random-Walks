@@ -22,7 +22,7 @@ It contains two main parts.
 
 Results
 ---
-
+Results are in Project1_report.pdf.
 
 Set Up
 ---
@@ -35,3 +35,7 @@ Usage
 3. problem2_1.ipynb is for 2.1 problem.
 4. problem2_2.ipynb is for 2.2 problem.
 5. problem2_34.ipynb is for 2.3 and 2.4 problems.
+
+Contributors:
+---
+Committed by Jinxi Zou, Qinyi Tang, Shuo Bai, Xuan Hu. Original project page: https://github.com/bai3shuo4/232E/tree/master/Project1
