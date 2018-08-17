@@ -14,11 +14,15 @@ Project 1
 
 Introduction
 ---
-This project is for introduction for the network flow using and model construction. It contains two main parts.
+This project is for introduction for the network flow using and model construction. Instruction of each problem are in main.pdf.
+It contains two main parts.
 
 1. Building a random networks with E-R model and preferential attachment model.
 2. Random walk on random networks.
-Instruction of each problem are in main.pdf.
+
+Results
+---
+
 
 Set Up
 ---
